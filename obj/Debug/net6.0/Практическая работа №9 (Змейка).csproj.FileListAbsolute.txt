@@ -1,0 +1,15 @@
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\bin\Debug\net6.0\Практическая работа №9 (Змейка).exe
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\bin\Debug\net6.0\Практическая работа №9 (Змейка).deps.json
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\bin\Debug\net6.0\Практическая работа №9 (Змейка).runtimeconfig.json
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\bin\Debug\net6.0\Практическая работа №9 (Змейка).dll
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\bin\Debug\net6.0\Практическая работа №9 (Змейка).pdb
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\Практическая работа №9 (Змейка).csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\Практическая работа №9 (Змейка).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\Практическая работа №9 (Змейка).AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\Практическая работа №9 (Змейка).AssemblyInfo.cs
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\Практическая работа №9 (Змейка).csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\Практическая работа №9 (Змейка).dll
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\refint\Практическая работа №9 (Змейка).dll
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\Практическая работа №9 (Змейка).pdb
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\Практическая работа №9 (Змейка).genruntimeconfig.cache
+C:\Users\nikol\source\repos\Практическая работа №9 (Змейка)\Практическая работа №9 (Змейка)\obj\Debug\net6.0\ref\Практическая работа №9 (Змейка).dll
